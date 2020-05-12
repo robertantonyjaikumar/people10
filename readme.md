@@ -1,5 +1,5 @@
 ## Installation Steps
-- Install using command composer install
+- Install using command `composer require robertantonyjaikumar/people10`
 - Copy `\People10\People10ServieProvider::class` paste under `config/app.php` file
 - Run `php artisan vendor:publish` and publish People10\People10ServieProvider
 - Run `php artisan migrate`
