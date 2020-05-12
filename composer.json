@@ -1,0 +1,22 @@
+{
+    "name": "robertantonyjaikumar/people10",
+    "description": "Onedrive Integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jai",
+            "email": "robertantonyjaikumar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/framework": "^5.1",
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "People10\\": "src"
+        }
+    }
+}
